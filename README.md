@@ -1,2 +1,1 @@
-# ASL-RECOGNITION-MODEL
-This project is for depth people 
+Mouse controller using mediapipe and open cv
